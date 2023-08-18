@@ -114,7 +114,7 @@ public enum ItemCode implements ICode {
     ITEM0x6F((byte) 0x6F, "風魔の盾", ItemTypeCode.SHIELD),
     ITEM0x70((byte) 0x70, "ラセン風魔の盾", ItemTypeCode.SHIELD),
     ITEM0x71((byte) 0x71, "大三元の盾", ItemTypeCode.SHIELD),
-    ITEM0x72((byte) 0x72, "ばん族の立て", ItemTypeCode.SHIELD),
+    ITEM0x72((byte) 0x72, "ばん族の盾", ItemTypeCode.SHIELD),
     ITEM0x73((byte) 0x73, "オオカブトの盾", ItemTypeCode.SHIELD),
     ITEM0x74((byte) 0x74, "バジリスクの盾", ItemTypeCode.SHIELD),
     ITEM0x75((byte) 0x75, "おめん", ItemTypeCode.SHIELD),

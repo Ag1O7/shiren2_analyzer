@@ -180,7 +180,7 @@ public enum MonsterCode implements ICode {
     CODE_0x37_4(177, (byte) 0x37, (byte) 4, "イッテツ戦車", "ｲｯﾃﾂ", MonsterTypeCode.BOMB, "固定ダメ", ""),
     CODE_0x38_1(178, (byte) 0x38, (byte) 1, "馬武者", "馬武者", MonsterTypeCode.PROJECTILE, "", ""),
     CODE_0x38_2(179, (byte) 0x38, (byte) 2, "荒馬ザムライ", "荒馬", MonsterTypeCode.PROJECTILE, "", ""),
-    CODE_0x38_3(180, (byte) 0x38, (byte) 3, "あばれ馬将軍", "荒馬", MonsterTypeCode.PROJECTILE, "", ""),
+    CODE_0x38_3(180, (byte) 0x38, (byte) 3, "あばれ馬将軍", "暴れ馬", MonsterTypeCode.PROJECTILE, "", ""),
     CODE_0x38_4(181, (byte) 0x38, (byte) 4, "乱れ馬王", "乱馬王", MonsterTypeCode.PROJECTILE, "", ""),
     CODE_0x39_1(182, (byte) 0x39, (byte) 1, "ウルロイド", "ｳﾙﾛｲﾄﾞ", MonsterTypeCode.BOMB, "射程", "固定ダメ"),
     CODE_0x39_2(183, (byte) 0x39, (byte) 2, "ゴリボット", "ｺﾞﾘﾎﾞｯﾄ", MonsterTypeCode.BOMB, "射程", "固定ダメ"),
